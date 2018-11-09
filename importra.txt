@@ -1,0 +1,34 @@
+E-VOTING SYSTEM
+
+Notice: Undefined index: firstname in C:\xampp\htdocs\idode\header.php on line 61
+ Logout
+ About
+Support
+SELECT * FROM voters WHERE email = '1' AND password = 'gatewayz'
+SIGN IN AS A VOTER
+
+
+Enter Matric Number
+
+password
+
+Create an account
+Our Offices
+Feel free to visit our offices or contact us.
+Gateway Community
+Otta, Ogun State
+(234) 8133936723
+Abeokuta Expressway
+Sango, Otta
+(234) 7060465890
+Support
+Terms & Conditions
+About
+How to Shop
+How to Sell
+Seller Account
+Contact us
+
+your e-mail...
+
+your text...

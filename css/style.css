@@ -1,0 +1,175 @@
+.btn-reg{
+	background: none;
+	padding-top: 14px;
+	color:#fff;
+	border:none;
+	padding-bottom: 16px;
+}
+.btn-reg:hover, .btn-reg:focus{
+	background: #05a52b;
+	transition: ease-out 0.4s;
+	color: #fff;
+	border:none;
+	box-shadow: none;
+}
+.row .add-candidate{
+	padding: 20px;
+	border-radius: 2px 2px 5px 5px;
+	background: #ffffff;
+	margin-top: 80px;
+	margin-bottom: 50px;
+	position: relative;
+	padding-bottom: 40px;
+}
+.row .admin-container{
+	padding: 20px;
+	border-radius: 2px 2px 5px 5px;
+	background: #ffffff;
+	margin-top: 80px;
+	margin-bottom: 50px;
+	position: relative;
+	padding-bottom: 40px;
+	box-shadow: 0px 1px 5px #0ec15b;
+}
+.row .register-container{
+	padding: 20px;
+	border-radius: 2px 2px 5px 5px;
+	background: #ffffff;
+	margin-bottom: 50px;
+	position: relative;
+	padding-bottom: 40px;
+	box-shadow: 0px 1px 5px #0ec15b;
+}
+.row .leader-container{
+	padding: 20px;
+	border-radius: 2px 2px 5px 5px;
+	width: 500px;
+	margin-top: 20px;
+	margin-left: 30px;
+	margin-bottom: 200px;
+	background: #ffffff;
+	position: relative;
+	padding-bottom: 40px;
+	box-shadow: 0px 1px 5px #0ec15b;
+}
+.row .leader-container h3{
+	padding: 0;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	padding-left: 18px;
+	margin: 0;
+	text-transform: uppercase;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.row .login-container{
+	padding: 20px;
+	border-radius: 2px 2px 5px 5px;
+	width: 420px;
+	margin-top: 30px;
+	margin-bottom: 200px;
+	background: #ffffff;
+	position: relative;
+	padding-bottom: 40px;
+	box-shadow: 0px 1px 5px #0ec15b;
+}
+
+.row .login-container h3{
+	padding: 0;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	padding-left: 18px;
+	margin: 0;
+	text-transform: uppercase;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.row  .casting-container{
+	padding: 40px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	border-radius: 2px 2px 5px 5px;
+	background: #ffffff;
+	position: relative;
+	padding-bottom: 40px;
+	box-shadow: 0px 1px 5px #0ec15b;
+}
+.row .voting-container{
+	padding: 40px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	border-radius: 2px 2px 5px 5px;
+	background: #ffffff;
+	position: relative;
+	padding-bottom: 40px;
+	box-shadow: 0px 1px 5px #0ec15b;
+}
+.row .voting-container h3{
+	padding: 0px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	padding-left: 18px;
+	margin: 0;
+	text-transform: uppercase;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.row .category-item{
+	padding: 20px;
+	border-radius: 2px 2px 5px 5px;
+	background: #ffffff;
+	position: relative;
+	padding-bottom: 40px;
+	box-shadow: 0px 1px 5px #0ec15b;
+
+}
+.row .cast-item{
+	padding: 0px;
+	margin: 10px;
+	border-radius: 2px 2px 5px 5px;
+	background: #ffffff;
+	position: relative;
+	padding-bottom: 10px;
+	box-shadow: 0px 1px 5px #0ec15b;
+}
+.row .cast-item-content{
+	padding: 20px;
+}
+.footer{
+	background:#2a2d34;
+	padding:2em 0;
+	color: #ffffff;
+}
+.footer p{
+	color: #ffffff;
+	line-height:1;
+}
+.footer .support-footer p a {
+	color: #ffffff;
+	line-height: 1.5;
+}
+.footer .support-footer p a:hover, a:focus {
+	color:#05a52b;
+	text-decoration: none;
+	line-height: 1.5;
+	transition: ease-out 0.4s;
+}
+.footer .contact-footer input{
+	padding-left:10px;
+	color: #333;
+	width: 320px;
+	height: 3em;
+}
+.footer .contact-footer textarea{
+	padding-left:10px;
+	color: #333;
+}
+
+.footer .contact-footer  button{
+	background:#05a52b;
+	padding: 7px;
+	border-radius: 0px;
+}
+.footer .contact-footer  button:hover, button:focus{
+	background: #fff;
+	color:#05a52b;
+	border: solid 2px #05a52b;
+	transition: ease-out 0.4s;
+}
